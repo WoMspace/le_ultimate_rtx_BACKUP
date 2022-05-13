@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "30a7b8da-7c8f-452f-9a0a-8c5a1a2b6825",
+    "name": "WoMspace",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
