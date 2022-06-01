@@ -33,6 +33,7 @@ messages:
     Please contact the server administrators if you believe that this is in error.'
 config-version: 27
 settings:
+  proxy-protocol: false
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
   fix-target-selector-tag-completion: true
