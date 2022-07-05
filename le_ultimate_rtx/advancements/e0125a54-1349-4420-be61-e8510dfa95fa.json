@@ -245,15 +245,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2022-06-19 22:27:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2022-06-19 22:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-19 22:27:52 +0000"
     },
     "done": true
   },
@@ -311,15 +311,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2022-06-19 22:25:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2022-06-19 22:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-06-19 22:25:15 +0000"
     },
     "done": true
   },
